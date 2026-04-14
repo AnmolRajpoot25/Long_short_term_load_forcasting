@@ -1,7 +1,9 @@
 pandas>=1.5
 numpy>=1.23
 scikit-learn>=1.2
-xgboost>=1.7
-torch>=2.0
 matplotlib>=3.6
 jupyter>=1.0
+
+# GPU-enabled libraries
+xgboost>=2.0
+torch>=2.0

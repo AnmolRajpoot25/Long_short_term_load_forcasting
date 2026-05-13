@@ -1,4 +1,4 @@
-🌞 Solar Generation Forecasting using ML & Deep Learning
+🌞 Energy Forecasting using ML & Deep Learning
 📌 Overview
 
 This project focuses on time-series forecasting of solar power generation (GC) using both:
